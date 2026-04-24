@@ -2,7 +2,7 @@
 
 Overview.
 
-** Author**: Amy Clough, University of Southampton
+** Author **: Amy Clough, University of Southampton
 
 
 ## One Time Envioment Setup and Installation Instructions
