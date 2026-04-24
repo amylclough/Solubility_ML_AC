@@ -132,6 +132,6 @@ Note: to view the HTML report files, download them and open in your browser as G
   M. C. Sorkun, A. Khetan and S. Er, Sci Data, 2019, 6, 143
   P. Llompart, C. Minoletti, S. Baybekov et al., Scientific Data, 2024, 11, 303
   E. Al Ibrahim, N. Morgan, S. Müller, S. Motati and W. Green, Accurately predicting solubility curves via a thermodynamic cycle, machine learning,    and solvent ensembles, ChemRxiv Preprint, Preprint. Not peer-reviewed, 2025 (since published but data was taken at time from this version)
-- DrugBank structure links (`structure_links.csv`) can be obtained from DrugBank but are not distributed here due to licensing. The prediction tool functions without it but cannot provide compound names.
+- DrugBank structure links (`structure_links.csv`) can be obtained from DrugBank but are not distributed here due to licensing. The prediction tool functions without it but cannot provide compound names. https://go.drugbank.com/releases/latest
 - PChProp data: For information and access to either version of the PChProp data contact Dr. Matthew Partridge or Prof. Jeremy Frey data collection.
   Further information can be found: M. Partridge and J. Frey, Physical Chemistry Properties Data Collection, Zenodo, 2025
