@@ -1,0 +1,17 @@
+=== Model Performance Summary ===
+Best Hyperparameters:
+{
+    "n_estimators": 1077,
+    "max_depth": 7,
+    "learning_rate": 0.027226757261999232,
+    "subsample": 0.6394090301460355,
+    "colsample_bytree": 0.33493158230794584,
+    "min_child_weight": 6,
+    "gamma": 0.13231175149608077
+}
+
+R2: 0.848 (95% CI: 0.828 - 0.868)
+RMSE: 0.867 (95% CI: 0.816 - 0.923)
+MAE: 0.573 (95% CI: 0.547 - 0.598)
+Pct_07: 72.855 (95% CI: 71.169 - 74.622)
+Pct_10: 83.837 (95% CI: 82.262 - 85.369)

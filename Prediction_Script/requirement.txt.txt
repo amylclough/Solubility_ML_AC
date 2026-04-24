@@ -1,0 +1,7 @@
+pandas
+numpy
+joblib
+matplotlib
+shap
+rdkit
+scikit-learn

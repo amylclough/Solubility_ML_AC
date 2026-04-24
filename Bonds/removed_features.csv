@@ -1,0 +1,21 @@
+Feature,Reason
+Ipc,Manual Removal
+SMR_VSA8,Zero Variance
+SlogP_VSA9,Zero Variance
+fr_dihydropyridine,Zero Variance
+Fe,Zero Variance
+Co,Zero Variance
+Pt,Zero Variance
+Na,Zero Variance
+Ca,Zero Variance
+Mg,Zero Variance
+K,Zero Variance
+As,Zero Variance
+Au,Zero Variance
+Li,Zero Variance
+Ga,Zero Variance
+Se,Zero Variance
+fr_diazo,Low Frequency (2 non-zero)
+fr_thiocyan,Low Frequency (5 non-zero)
+Al,Low Frequency (2 non-zero)
+ring_size_9,Low Frequency (3 non-zero)

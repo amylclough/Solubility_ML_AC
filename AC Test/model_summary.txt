@@ -1,0 +1,20 @@
+=== Model Performance Summary ===
+Dropped Atoms (Zero Variance / Low Freq): Fe, Co, Pt, Na, Ca, Mg, K, As, Au, Li, Ga, Se, Al
+Included Atoms: C, H, N, O, S, Cl, F, P, I, Br, B, Si, C_Aliphatic, C_Aromatic, O_Aromatic
+
+Best Hyperparameters:
+{
+    "n_estimators": 1247,
+    "max_depth": 7,
+    "learning_rate": 0.023250382506048512,
+    "subsample": 0.5880850203158086,
+    "colsample_bytree": 0.7762041976987969,
+    "min_child_weight": 3,
+    "gamma": 0.1395685294411267
+}
+
+R2: 0.842 (95% CI: 0.820 - 0.860)
+RMSE: 0.886 (95% CI: 0.836 - 0.941)
+MAE: 0.581 (95% CI: 0.557 - 0.609)
+Pct_07: 73.092 (95% CI: 71.256 - 74.882)
+Pct_10: 82.779 (95% CI: 81.311 - 84.204)

@@ -1,0 +1,32 @@
+Feature,Reason
+Ipc,Manual Removal
+SMR_VSA8,Zero Variance
+SlogP_VSA9,Zero Variance
+fr_dihydropyridine,Zero Variance
+MACCS_1,Zero Variance
+MACCS_2,Zero Variance
+MACCS_3,Zero Variance
+MACCS_4,Zero Variance
+MACCS_5,Zero Variance
+MACCS_6,Zero Variance
+MACCS_7,Zero Variance
+MACCS_9,Zero Variance
+MACCS_10,Zero Variance
+MACCS_12,Zero Variance
+MACCS_35,Zero Variance
+MACCS_166,Zero Variance
+Fe,Zero Variance
+Co,Zero Variance
+Pt,Zero Variance
+Na,Zero Variance
+Ca,Zero Variance
+Mg,Zero Variance
+K,Zero Variance
+As,Zero Variance
+Au,Zero Variance
+Li,Zero Variance
+Ga,Zero Variance
+Se,Zero Variance
+fr_diazo,Low Frequency (<= 5)
+fr_thiocyan,Low Frequency (<= 5)
+Al,Low Frequency (<= 5)

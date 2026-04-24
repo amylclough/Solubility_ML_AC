@@ -1,0 +1,18 @@
+Metric,Value
+Total Valid Molecules Processed,2846
+--- OVERALL PASS RATES ---,
+Molecules with 0 Violations,2082
+% of Total Drugs (0 Violations),73.16%
+Molecules with 1 Violation,391
+% of Total Drugs (1 Violation),13.74%
+Total Molecules Passed (<= 1 Violation),2473
+% Total Passed (<= 1 Violation),86.89%
+--- 1-VIOLATION BREAKDOWN ---,
+MW (>500) Violations,153
+% of 1-Violation pool (MW),39.13%
+LogP (>5) Violations,185
+% of 1-Violation pool (LogP),47.31%
+HBD (>5) Violations,41
+% of 1-Violation pool (HBD),10.49%
+HBA (>10) Violations,12
+% of 1-Violation pool (HBA),3.07%

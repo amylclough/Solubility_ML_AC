@@ -1,0 +1,8 @@
+Stage,Entries,Molecules,Dropped,% Lost From Start
+1_Initial_Extraction,46561,16119,0,0.0
+2_Metadata_Filter,40205,12284,3835,23.79
+3_RDKit_Standardize,40135,12130,154,24.75
+4a_Dropped_N2,-,-,103,-
+4b_Dropped_NoOutlier,-,-,332,-
+4c_Dropped_StillHigh,-,-,33,-
+Final,11662,11662,0,27.65

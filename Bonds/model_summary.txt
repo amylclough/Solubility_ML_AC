@@ -1,0 +1,19 @@
+=== Model Performance Summary ===
+Dropped Custom Features (Zero Variance / Low Freq): Fe, Co, Pt, Na, Ca, Mg, K, As, Au, Li, Ga, Se, Al, ring_size_9
+
+Best Hyperparameters:
+{
+    "n_estimators": 1497,
+    "max_depth": 11,
+    "learning_rate": 0.017465055844222532,
+    "subsample": 0.6934054853795025,
+    "colsample_bytree": 0.6305354379047543,
+    "min_child_weight": 15,
+    "gamma": 0.23389292570992853
+}
+
+R2: 0.845 (95% CI: 0.824 - 0.862)
+RMSE: 0.877 (95% CI: 0.830 - 0.932)
+MAE: 0.576 (95% CI: 0.551 - 0.602)
+Pct_07: 72.263 (95% CI: 70.478 - 74.104)
+Pct_10: 83.058 (95% CI: 81.528 - 84.507)
