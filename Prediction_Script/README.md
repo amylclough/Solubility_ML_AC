@@ -2,7 +2,7 @@
 
 This is a Python-based machine learning tool that predicts the aqueous solubility (LogS) of chemical compounds using their SMILES strings. It also generates an interactive HTML report detailing the model's confidence, applicability domain, and SHAP feature explainability.
 
-## One Time Envioment Setup and Installation Instructions
+## One Time Envioment Setup and Installation Instructions (If not already complete)
 
 1. Ensure you have Python installed on your system.
 
